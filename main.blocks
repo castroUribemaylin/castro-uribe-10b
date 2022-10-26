@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=";B|r$?s@[9Nem|`ZK;C," x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="Q~G}a].Eghv:DYzo{]pO"><value name="text"><shadow type="text" id="zxvtzM!CcU*U[$urRg5%"><field name="TEXT">Hello!</field></shadow></value><next><block type="device_show_leds" id="|j*#]FxsucdUv?fDj/Md"><field name="LEDS">`
+        # # # # # 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="playMelody" id="_WH~UIR!-7MH?!R:7=D2"><value name="melody"><shadow type="melody_editor" id="}Ezz),nE7_@hQd*2YR(i"><field name="melody">"C A F C5 C5 F A C "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="^gERYWzKmCoWk8g5_T|^"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">309</field></shadow></value><next><block type="device_show_leds" id="QH4n61%Zz%[jrnH7#SfA"><field name="LEDS">`
+        . # # # . 
+        . # . . . 
+        . # # # . 
+        . # . . . 
+        . # # # .
+        `</field><next><block type="playMelody" id="L~mKvROwbt*MGUCPj?bM"><value name="melody"><shadow type="melody_editor" id="n3JIfC.5H{+ru[`akPdg"><field name="melody">"B G A C G C5 E G "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="!5cbkiT)hws`f41pXWGZ"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">305</field></shadow></value><next><block type="device_show_leds" id="1;`4};e~IAgpn5?@Q#o6"><field name="LEDS">`
+        # # # # # 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="playMelody" id="zWKql`a-$`w~-20(QC1b"><value name="melody"><shadow type="melody_editor" id="Hzg4m93T^rlo:uWr+y}j"><field name="melody">"A F E G D E D E "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id=",{6uy|?KrOx~HNrsHJE}"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">313</field></shadow></value><next><block type="device_show_leds" id="G0|kDzW^F_-nDP5{P2J,"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="playMelody" id="cj{S@D_h0p#_pUrSW9z*"><value name="melody"><shadow type="melody_editor" id="AkLn@#kqm}$B)w/T~scj"><field name="melody">"E B F - A C5 D A "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="pT8-yf$dx/9FA]rrvYwo"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">235</field></shadow></value><next><block type="device_show_leds" id="zI[$;p2hK(+Z5@p(x_iD"><field name="LEDS">`
+        # # # # . 
+        # . . . . 
+        # # # # . 
+        . . . # . 
+        # # # # .
+        `</field><next><block type="playMelody" id="#$JkWzcY@zHf*py!#WE["><value name="melody"><shadow type="melody_editor" id="iA.[Sg0n_#@j(3]^@3$E"><field name="melody">"D - B - E A G A "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="C7KvnML**E7ziP%1FuCL"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">225</field></shadow></value><next><block type="basic_show_icon" id="wu%h_Tu@ywM$AMKTEPzj"><field name="i">IconNames.Heart</field><next><block type="playMelody" id="wVd(#Zsu{YuiY]k[7}L`"><value name="melody"><shadow type="melody_editor" id="=NEyEnUP5!c7ZE{jxpd`"><field name="melody">"A F - F D G B F "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="pII~f@gkL=vkn,XQ^#,4"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">225</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_show_leds" id="}r1bflNd+@a}j)h8M3xC" disabled="true" x="92" y="1918"><field name="LEDS">`
+        . . . # # 
+        . . . . # 
+        . . . . # 
+        . . . . . 
+        . . . . .
+        `</field></block></xml>
